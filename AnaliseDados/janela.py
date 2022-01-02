@@ -1,6 +1,7 @@
 import sys
 import pandas as pd
 
+
 from AnaliseDados.template6 import *
 from PyQt6.QtWidgets import QMainWindow, QApplication, QMessageBox
 from PyQt6 import QtWidgets

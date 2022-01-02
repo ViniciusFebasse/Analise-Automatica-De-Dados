@@ -6,6 +6,7 @@ base = None
 # if sys.platform == "win32":
 #     base = "Win32GUI"
 
+
 executables = [
     Executable("AnaliseDados/janela.py", base=base)
 ]
