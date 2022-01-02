@@ -1,0 +1,35 @@
+O arquivo importado possui 891 linhas e 12 colunas.
+
+Arquivo: C:/Users/Windows/Documents/Analise de Dados/AnaliseDados/train.csv
+
+O nome das colunas são os seguintes: Index(['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp',
+       'Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked'],
+      dtype='object')
+
+Braund, Mr. Owen Harris                     1
+Boulos, Mr. Hanna                           1
+Frolicher-Stehli, Mr. Maxmillian            1
+Gilinski, Mr. Eliezer                       1
+Murdlin, Mr. Joseph                         1
+                                           ..
+Kelly, Miss. Anna Katherine "Annie Kate"    1
+McCoy, Mr. Bernard                          1
+Johnson, Mr. William Cahoone Jr             1
+Keane, Miss. Nora A                         1
+Dooley, Mr. Patrick                         1
+Name: Name, Length: 891, dtype: int64
+
+PassengerId                   6
+Survived                      0
+Pclass                        3
+Name           Moran, Mr. James
+Sex                        male
+Age                         NaN
+SibSp                         0
+Parch                         0
+Ticket                   330877
+Fare                     8.4583
+Cabin                       NaN
+Embarked                      Q
+Name: 5, dtype: object
+
